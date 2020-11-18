@@ -20,6 +20,7 @@
 - Application extension schemes now default to `launchAutomaticallySubstyle = 2` and the correct debugger and launcher identifiers [#932](https://github.com/yonaskolb/XcodeGen/pull/932) @brentleyjones
 - Updated SettingsPresets to use new defaults from Xcode 12. [#953](https://github.com/yonaskolb/XcodeGen/pull/953) @liamnichols
 - Enable Base Internationalization by default as per Xcode 12 behavior. [#954](https://github.com/yonaskolb/XcodeGen/issues/954) @liamnichols
+- Added ability to set custom platformFilter for dependency [#934](https://github.com/yonaskolb/XcodeGen/pull/934) @raptorxcz
 
 #### Changed
 - Change default project version to Xcode 12 [#960](https://github.com/yonaskolb/XcodeGen/pull/960) @yonaskolb
